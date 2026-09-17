@@ -53,9 +53,10 @@ const perguntas = [
                                         afirmacao: "O Guardião da Transparência e Equidade Você acredita que a correção da desigualdade salarial exige métricas claras, fiscalização e regras objetivas. Sua abordagem é estruturada e focada em eliminar vieses inconscientes por meio de processos padronizados e visibilidade total sobre os critérios de remuneração.",
                                         escrever algo parecido
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:   "Criar programas contínuos de mentoria, aceleração de carreira e capacitação voltados a grupos sub-representados, preparando-os para ocupar cargos de liderança e maior remuneração.
+"
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "O Catalisador de Desenvolvimento Social Você enxerga o combate à disparidade salarial como um processo contínuo de fortalecimento de competências e abertura de caminhos. Sua prioridade é empoderar os profissionais por meio de conhecimento, acesso a redes de apoio e aceleração de oportunidades de topo.."
                 }    
                
             ]
